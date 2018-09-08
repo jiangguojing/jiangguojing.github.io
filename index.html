@@ -1,63 +1,160 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <title>主页</title>
     <style type="text/css">
+        * {
+            box-sizing: border-box;
+        }
         body{
             margin: 0 ;
-            background: whitesmoke;
+            padding-left: 17%;
+            padding-right: 17%;
+            padding-top: 3%;
+            padding-bottom: 3%;
+            background: #b9cbed;
+        }
+        .back{	width:auto;
+            height:auto;
+            background-color: #e2edff;
+            padding:5%;
         }
         .head{
-            width: 70%;
-            margin: 0 auto;
-            padding: 40px;
-            background: lightgray;
-            border-radius:25px;
+            width: auto;
+            height: auto;
+            margin: 20px auto;
+            padding-left: 40px;
+            padding-right: 40px;
         }
-        .data{
-            width: 70%;
-            margin: 0 auto;
-            padding: 40px;
-            background: dodgerblue;
-            border-radius:25px;
+        .lead{
+            width: 30%;
+            border: 1px solid;
+            margin-left: 20px;
         }
-        .anime{
-            width: 70%;
-            margin: 0 auto;
-            padding: 40px;
-            background: ivory;
+        .main{
+            width: auto;
+            margin: 20px auto;
+            padding-left: 40px;padding-right: 40px;padding-top: 15px;padding-bottom: 15px;
+            background: white;
             border-radius:25px;
+            line-height: 150%;
         }
-        .game{
-            width: 70%;
-            margin: 0 auto;
-            padding: 40px;
-            background: goldenrod;
-            border-radius:25px;
+        .main ul{
+            width: 30%;
+            float: left;
+            margin:0;
+
         }
+        .main ul.circle {list-style-type: circle}
+        .photo{
+            width: 180px;height: 180px;
+            border-color: #b9cbed;
+            border-style:solid;
+            border-width: 10px;
+            margin: 20px;margin-right: 80px;
+            border-radius:15px;
+            float: right;
+        }
+        .inside{
+            width: auto;
+            margin: 10px auto;
+            border: 1px solid #b9cbed;
+        }
+        .inside1{
+            width: 3%;
+            float: left;
+            margin: 0;
+            padding: 10px;
+            border-right: 1px solid;
+            text-align: center;
+            background: #b9cbed;
+            color: white;
+        }
+        .inside2{
+            width: 97%;
+            float: right;
+        }
+        .clear{ clear: both; }
     </style>
-    <base target="_blank" />
+
 </head>
 <body>
-<div class="head">
-    <h1>江国靖</h1>
-    <br /><br /><br /><br /><br />
-</div>
-<br />
-<div class="data">
-    个人资料简介
-    <br /><br /><br /><br /><br /><br /><br /><br />
-</div>
-<br />
-<div class="anime">
-    我的动画动态
-    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-</div>
-<br />
-<div class="anime">
-    我的游戏动态
-    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-</div>
+    <div class="back">
+        <div class="head">
+            <div class="photo"></div>
+            <h1 style="font-size: 40px">江国靖的个人主页</h1>
+            <div class="lead">
+                <ul>
+                    <li><a href="#a1" >简介</a></li>
+                    <li><a href="#a2" >动画</a></li>
+                    <li><a href="#a3" >游戏</a></li>
+                    <li><a href="#a4" >小说</a></li>
+                    <li><a href="#a5" >个人资料</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+         </div>
+
+
+        <hr/>
+
+
+        <a name="a1"></a>
+        <div class="main">
+            <h2><img src="images/introduce.jpg" width="30px"/> 个人资料简介</h2>
+            <ul class="circle">
+                <li>姓&emsp;&emsp;名：江国靖</li>
+                <li>民&emsp;&emsp;族：汉</li>
+                <li>出生年月：1997.04.26</li>
+                <li>学&emsp;&emsp;校：河海大学</li>
+            </ul>
+            <ul class="circle">
+                <li>性&emsp;&emsp;别：男</li>
+                <li>籍&emsp;&emsp;贯：福建省三明市</li>
+                <li>学&emsp;&emsp;历：本科在读</li>
+                <li>联系方式：shulun170@qq.com</li>
+            </ul>
+            <div class="clear"></div>
+
+            <p>
+                &emsp;&emsp;dafafaffgggggggggggggggggggggggggggggggggggggggggggggggggggggd
+                fggggggggggggggggggggggggggggggggggggggggggggggggfffggggggggggggggggggggggg
+                ggggggggggggggggggggggggg
+            </p>
+
+         </div>
+
+        <a name="a2"></a>
+
+        <div class="main">
+            <h2><img src="images/video.jpg" width="30px"/> 视频区</h2>
+            <div class="inside">
+                <div class="inside1">
+                    <b>最<br/>近<br/>观<br/>看</b>
+                </div>
+                <div class="inside2">
+
+                </div>
+                <div class="clear"></div>
+            </div>
+
+        </div>
+
+        <a name="a3"></a>
+
+        <div class="main">
+            <h2><img src="images/game.jpg" width="30px"/> 游戏区</h2>
+            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        </div>
+
+        <a name="a4"></a>
+
+        <div class="main">
+            <h2><img src="images/novel.jpg" width="30px"/> 小说区</h2>
+            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        </div>
+    </div>
 </body>
 </html>
