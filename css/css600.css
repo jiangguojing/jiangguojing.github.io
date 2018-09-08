@@ -29,6 +29,8 @@ body{
 .title{
     font-size: 3rem;
     font-weight: bold;
+    float: left;
+    width: 100%;
 }
 .main{
     width: auto;
