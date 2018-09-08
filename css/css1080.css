@@ -27,6 +27,15 @@ body{
     border: 1px solid;
     margin-left: 3%;
 }
+.photo{
+    width: 12vw;height: 12vw;
+    border-color: #b9cbed;
+    border-style:solid;
+    border-width: 10px;
+    margin-right:8vw;
+    border-radius:15px;
+    float: right;
+}
 .main{
     width: auto;
     margin: 1% auto;
@@ -42,15 +51,7 @@ body{
 
 }
 .main ul.circle {list-style-type: circle}
-.photo{
-    width: 12vw;height: 12vw;
-    border-color: #b9cbed;
-    border-style:solid;
-    border-width: 10px;
-    margin-right:8vw;
-    border-radius:15px;
-    float: right;
-}
+
 .inside{
     width: auto;
     margin: 10px auto;
