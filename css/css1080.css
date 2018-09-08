@@ -39,7 +39,7 @@ body{
 }
 .main ul.circle {list-style-type: circle}
 .photo{
-    width: 180px;height: 180px;
+    width: 15vw;height: 15vw;
     border-color: #b9cbed;
     border-style:solid;
     border-width: 10px;
