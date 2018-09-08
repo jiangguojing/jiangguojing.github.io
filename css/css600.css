@@ -1,7 +1,7 @@
 body{
     margin: 0 ;
     padding-top: 3vh;
-    width: 100vmin;
+    width: 100vw;
     height: auto;
     padding-bottom: 3vh;
     background: #b9cbed;
@@ -44,11 +44,9 @@ body{
     float: right;
 .main{
     width: 90vw;
-    margin: auto;
+    margin: 0 auto;
     padding:5vw;
     background: white;
-    border-radius:25px;
-    line-height: 150%;
 }
 .main ul{
     width: 30%;
