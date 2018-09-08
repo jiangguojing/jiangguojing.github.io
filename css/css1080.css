@@ -18,6 +18,10 @@ body{
     padding-left: 3%;
     padding-right: 3%;
 }
+.title{
+    font-size: 3rem;
+    font-weight: bold;
+}
 .lead{
     width: 30%;
     border: 1px solid;
@@ -39,11 +43,11 @@ body{
 }
 .main ul.circle {list-style-type: circle}
 .photo{
-    width: 15vw;height: 15vw;
+    width: 12vw;height: 12vw;
     border-color: #b9cbed;
     border-style:solid;
     border-width: 10px;
-    margin: 2%;margin-right:10%;
+    margin-right:8vw;
     border-radius:15px;
     float: right;
 }

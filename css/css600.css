@@ -26,7 +26,10 @@ body{
     border: 1px solid;
     margin-left: 3%;
 }
-
+.title{
+    font-size: 3rem;
+    font-weight: bold;
+}
 .main{
     width: auto;
     margin: 1% auto;
@@ -47,7 +50,7 @@ body{
     border-color: #b9cbed;
     border-style:solid;
     border-width: 3vw;
-    margin: 2vw;margin-right:10vw;margin-top: 85vw;
+    margin: 2vw;margin-right:5vw;margin-top: 85vw;
     border-radius:15px;
     float: right;
 }
