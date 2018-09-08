@@ -4,85 +4,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charset="UTF-8">
     <title>主页</title>
-    <style type="text/css">
-
-        body{
-            margin: 0 ;
-            padding-top: 3%;
-            padding-bottom: 3%;
-            background: #b9cbed;
-        }
-        .back{
-            width:70vw;
-            margin: 0 auto;
-            height:auto;
-            background-color: #e2edff;
-            padding:5%;
-        }
-        .head{
-            width: auto;
-            height: auto;
-            margin: 3% auto;
-            padding-left: 3%;
-            padding-right: 3%;
-        }
-        .lead{
-            width: 30%;
-            border: 1px solid;
-            margin-left: 3%;
-        }
-        .main{
-            width: auto;
-            margin: 1% auto;
-            padding-left: 40px;padding-right: 40px;padding-top: 15px;padding-bottom: 15px;
-            background: white;
-            border-radius:25px;
-            line-height: 150%;
-        }
-        .main ul{
-            width: 30%;
-            float: left;
-            margin:0;
-
-        }
-        .main ul.circle {list-style-type: circle}
-        .photo{
-            width: 180px;height: 180px;
-            border-color: #b9cbed;
-            border-style:solid;
-            border-width: 10px;
-            margin: 20px;margin-right: 80px;
-            border-radius:15px;
-            float: right;
-        }
-        .inside{
-            width: auto;
-            margin: 10px auto;
-            border: 1px solid #b9cbed;
-        }
-        .inside1{
-            width: 3%;
-            float: left;
-            margin: 0;
-            padding: 10px;
-            border-right: 1px solid;
-            text-align: center;
-            background: #b9cbed;
-            color: white;
-        }
-        .inside2{
-            width: 97%;
-            float: right;
-        }
-        .clear{ clear: both; }
-    </style>
-
+    <link rel="stylesheet" type="text/css" media="screen and ( min-width:1080px)" href="css/css1080.css">
+    <link rel="stylesheet" type="text/css" media="screen and (max-device-width: 1080px)"
+          href="css/css600.css">
 </head>
 <body>
     <div class="back">
         <div class="head">
             <div class="photo"></div>
-            <h1 style="font-size: 40px">江国靖的个人主页</h1>
+            <h1 style="font-size: 3rem">江国靖的个人主页</h1>
             <div class="lead">
                 <ul>
                     <li><a href="#a1" >简介</a></li>
@@ -101,7 +31,7 @@
 
         <a name="a1"></a>
         <div class="main">
-            <h2><img src="images/introduce.jpg" width="30px"/> 个人资料简介</h2>
+            <h2><img src="images/introduce.jpg" width="30vw"/> 个人资料简介</h2>
             <ul class="circle">
                 <li>姓&emsp;&emsp;名：江国靖</li>
                 <li>民&emsp;&emsp;族：汉</li>
@@ -127,7 +57,12 @@
         <a name="a2"></a>
 
         <div class="main">
-            <h2><img src="images/video.jpg" width="30px"/> 视频区</h2>
+            <h2><img src="images/video.jpg" width="30px"/>
+                视频区 ——
+                <a href="https://space.bilibili.com/17957924/#/">
+                    我的B站空间
+                </a>
+            </h2>
             <div class="inside">
                 <div class="inside1">
                     <b>最<br/>近<br/>观<br/>看</b>
