@@ -26,7 +26,7 @@ body{
     border: 1px solid;
     margin-left: 3%;
 }
-/*
+
 .main{
     width: auto;
     margin: 1% auto;
@@ -43,11 +43,11 @@ body{
 }
 .main ul.circle {list-style-type: circle}
 .photo{
-    width: 180px;height: 180px;
+    width: 30vm;height: 30vm;
     border-color: #b9cbed;
     border-style:solid;
-    border-width: 10px;
-    margin: 2%;margin-right:10%;
+    border-width: 5vm;
+    margin: 2vm;margin-right:10vm;
     border-radius:15px;
     float: right;
 }
