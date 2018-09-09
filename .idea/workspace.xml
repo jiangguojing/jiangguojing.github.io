@@ -2,43 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa1e7ad0-0917-4c76-9657-bbc5d670cb1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/up1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up10.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up11.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up12.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up13.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up14.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up15.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up16.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up17.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up18.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up19.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up20.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up21.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up22.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up23.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up24.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up25.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up26.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up27.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up5.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up6.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up7.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up8.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up9.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/v1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/v2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/v3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/v4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/v5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/v6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/v7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/v8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/css1080.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css1080.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up19.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up20.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up21.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up23.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up24.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up25.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up26.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up27.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/up9.webp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,64 +71,52 @@
     <session id="-166027185">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
           <entry key="html" value="1" />
+          <entry key="webp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
           <entry key="HTML" value="1" />
+          <entry key="Image" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1316" />
-          <entry key="html" value="2989" />
+          <entry key="css" value="1457" />
+          <entry key="html" value="3111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1316" />
-          <entry key="HTML" value="2989" />
+          <entry key="CSS" value="1457" />
+          <entry key="HTML" value="3111" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="237" lean-forward="true" selection-start-line="237" selection-end-line="237" />
+            <state relative-caret-position="356">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
               <folding>
                 <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#1396#1402#0" expanded="true" />
-                <element signature="e#1402#1408#0" expanded="true" />
-                <element signature="e#1445#1451#0" expanded="true" />
-                <element signature="e#1451#1457#0" expanded="true" />
-                <element signature="e#1538#1544#0" expanded="true" />
-                <element signature="e#1544#1550#0" expanded="true" />
-                <element signature="e#1631#1637#0" expanded="true" />
-                <element signature="e#1637#1643#0" expanded="true" />
-                <element signature="e#1678#1684#0" expanded="true" />
-                <element signature="e#1684#1690#0" expanded="true" />
-                <element signature="e#1730#1736#0" expanded="true" />
-                <element signature="e#1736#1742#0" expanded="true" />
                 <element signature="e#11976#11982#0" expanded="true" />
-                <element signature="e#12008#12014#0" expanded="true" />
-                <element signature="e#12014#12020#0" expanded="true" />
                 <element signature="e#12052#12058#0" expanded="true" />
-                <element signature="e#12053#12059#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,17 +125,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/css600.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-784">
+            <state relative-caret-position="171">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/css1080.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2622">
-              <caret line="138" column="14" selection-start-line="138" selection-start-column="14" selection-end-line="138" selection-end-column="14" />
+            <state relative-caret-position="356">
+              <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -150,8 +157,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/css600.css" />
-        <option value="$PROJECT_DIR$/css/css1080.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/css1080.css" />
       </list>
     </option>
   </component>
@@ -162,9 +169,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="948" />
-    <option name="width" value="980" />
-    <option name="height" value="1042" />
+    <option name="x" value="947" />
+    <option name="width" value="981" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,6 +204,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,15 +215,15 @@
     <property name="last_opened_file_path" value="F:/Program Files/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\Document\Github\jiangguojing.github.io\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Document\Github\jiangguojing.github.io\images" />
       <recent name="G:\Document\Github\jiangguojing.github.io\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Document\Github\jiangguojing.github.io\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -242,18 +249,19 @@
       <option name="presentableId" value="Default" />
       <updated>1536394315930</updated>
       <workItem from="1536394318759" duration="21615000" />
-      <workItem from="1536468752567" duration="22850000" />
+      <workItem from="1536468752567" duration="25810000" />
+      <workItem from="1536501738088" duration="5229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44465000" />
+    <option name="totallyTimeSpent" value="52654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13554817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13687707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -320,42 +328,30 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/css600.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-784">
+        <state relative-caret-position="171">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/up21.webp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#11976#11982#0" expanded="true" />
+            <element signature="e#12052#12058#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/css1080.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2622">
-          <caret line="138" column="14" selection-start-line="138" selection-start-column="14" selection-end-line="138" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="237" lean-forward="true" selection-start-line="237" selection-end-line="237" />
-          <folding>
-            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1396#1402#0" expanded="true" />
-            <element signature="e#1402#1408#0" expanded="true" />
-            <element signature="e#1445#1451#0" expanded="true" />
-            <element signature="e#1451#1457#0" expanded="true" />
-            <element signature="e#1538#1544#0" expanded="true" />
-            <element signature="e#1544#1550#0" expanded="true" />
-            <element signature="e#1631#1637#0" expanded="true" />
-            <element signature="e#1637#1643#0" expanded="true" />
-            <element signature="e#1678#1684#0" expanded="true" />
-            <element signature="e#1684#1690#0" expanded="true" />
-            <element signature="e#1730#1736#0" expanded="true" />
-            <element signature="e#1736#1742#0" expanded="true" />
-            <element signature="e#11976#11982#0" expanded="true" />
-            <element signature="e#12008#12014#0" expanded="true" />
-            <element signature="e#12014#12020#0" expanded="true" />
-            <element signature="e#12052#12058#0" expanded="true" />
-            <element signature="e#12053#12059#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="356">
+          <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
         </state>
       </provider>
     </entry>

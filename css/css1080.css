@@ -6,7 +6,8 @@ body{
     padding-top: 3%;
     padding-bottom: 3%;
     background: #b9cbed;
-    font-family: Arial;
+    font-family: Arial,"微软雅黑";
+    font-size: 100%;
 }
 .back{
     width:60%;
@@ -28,17 +29,20 @@ body{
 }
 .lead{
     width: 30%;
-    padding: 1% 5%;
+    padding: 15px 5%;
     border: 1px solid white;
     margin: 3% 7%;
-    line-height: 200%;
+    line-height:150%;
 }
-.lead li{ color: white}
+.lead ul{ color: white;margin: 0;padding-left:0;}
 
 .lead a{
     text-decoration: none;
 }
-.lead a:link,a:visited{
+.lead a:link{
+    color: white;
+}
+.lead a:visited{
     color: white;
 }
 .lead a:hover{
@@ -47,7 +51,7 @@ body{
 .photo{
     float: right;
     margin: 1% 10%;
-    width: 23%;
+    width: 180px;
     border: 5px solid white;
     border-radius: 25px;
 }
@@ -84,10 +88,13 @@ body{
 .main a{
     text-decoration: none;
 }
-.mian a:link,a:visited{
+.list a:link{
     color: black;
 }
-.mian a:hover{
+.listt a:visited{
+    color: black;
+}
+.list a:hover{
     color: lightslategrey;
 }
 .main img{
@@ -101,6 +108,7 @@ body{
     border: 2px solid #b9cbed;
 
 }
+
 .list_left{
     width: 10%;height: 280px;
     background: #b9cbed;
@@ -139,5 +147,9 @@ body{
     margin: 12px;
     float: left;
     overflow:hidden;
+    border: 3px solid #b9cbed;
 }
+.game{
+}
+
 .clear{ clear: both; }
