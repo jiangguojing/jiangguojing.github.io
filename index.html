@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" user-scalable=no"/>
     <meta charset="UTF-8">
     <title>主页</title>
     <link rel="stylesheet" type="text/css" media="screen and ( min-width:1090px)" href="css/css1080.css">
@@ -11,84 +11,256 @@
 <body>
     <div class="back">
 
+        <!----------------------大标题和头部--------------------------->
         <div class="head">
-            <div class="title"><b>江国靖的个人主页</b></div>
-            <div class="photo"><img src="images/photo.jpg" width="100%"/> </div>
-            <br/><br/><br/><br/>
+            <img class="photo" src="images/photo.jpg">
+            <div class="title">
+                <h1>江国靖的个人主页</h1>
+            </div>
             <div class="lead">
                 <ul>
-                    <li><a href="#a1" >简介</a></li>
-                    <li><a href="#a2" >动画</a></li>
-                    <li><a href="#a3" >游戏</a></li>
-                    <li><a href="#a4" >小说</a></li>
-                    <li><a href="#a5" >个人资料</a></li>
+                    <li><a href="#a1"><h3>个人简介</h3></a></li>
+                    <li><a href="#a2"><h3>关注视频</h3></a></li>
+                    <li><a href="#a3"><h3>游戏动态</h3></a></li>
+                    <li><a href="#a4"><h3>小说推荐</h3></a></li>
                 </ul>
             </div>
-            <div class="clear"></div>
-         </div>
+            <a id="a1"></a>
+            <hr style="height: 10px;border:none;border-top: 5px solid white " />
+
+        </div>
 
 
-        <hr/>
-
-
-        <a name="a1"></a>
+        <!----------------------个人简介部分-------------------------->
         <div class="main">
-            <h2><img src="images/introduce.jpg" width="30vw"/> 个人资料简介</h2>
-            <ul class="circle">
-                <li>姓&emsp;&emsp;名： 江国靖</li>
-                <li>民&emsp;&emsp;族： 汉</li>
-                <li>出生年月： 1997.04.26</li>
-                <li>学&emsp;&emsp;校： 河海大学</li>
-            </ul>
-            <ul class="circle">
-                <li>性&emsp;&emsp;别： 男</li>
-                <li>籍&emsp;&emsp;贯： 福建省三明市</li>
-                <li>学&emsp;&emsp;历： 本科在读</li>
-                <li>联系方式： shulun170@qq.com</li>
-            </ul>
-            <div class="clear"></div>
+            <div class="main_title"><h3>个人简介</h3></div>     <!--标题-->
 
-            <p>
+            <div class="main_content">      <!--内容-->
 
-            </p>
-
-         </div>
-
-        <a name="a2"></a>
-
-        <div class="main">
-            <h2><img src="images/video.jpg" width="30px"/>
-                视频区 ——
-                <a href="https://space.bilibili.com/17957924/#/">
-                    我的B站空间
-                </a>
-            </h2>
-            <div class="inside">
-                <div class="inside1">
-                    <b>最<br/>近<br/>观<br/>看</b>
-                </div>
-                <div class="inside2">
-
-                </div>
+                <ul>
+                    <li>姓&emsp;&emsp;名： 江国靖</li>
+                    <li>名&emsp;&emsp;族： 汉</li>
+                    <li>出生年月： 1997.04.06</li>
+                    <li>学&emsp;&emsp;校： 河海大学</li>
+                </ul>
+                <ul>
+                    <li>性&emsp;&emsp;别： 男</li>
+                    <li>籍&emsp;&emsp;贯： 福建省三明市</li>
+                    <li>学&emsp;&emsp;历： 本科在读</li>
+                    <li>联系方式： shulun170.@qq.com</li>
+                </ul>
                 <div class="clear"></div>
+                <p>
+                    擦擦擦<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+                    <a id="a2"></a>
+                </p>
+
+
             </div>
-
+            <br/>
         </div>
 
-        <a name="a3"></a>
-
+        <!----------------------视频区部分-------------------------->
         <div class="main">
-            <h2><img src="images/game.jpg" width="30px"/> 游戏区</h2>
-            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+            <div class="main_title"><h3>爱好视频区</h3></div>        <!--标题-->
+            <div class="main_content">      <!--内容-->
+                <div class="list">
+                    <div class="list_left">
+                        <div class="list_left_word">
+                            <b>番<br/>剧<br/>点<br/>赞</b>
+                        </div>
+                    </div>
+                    <div class="list_right">
+                        <div class="list_right_video">
+                            <a href="https://www.bilibili.com/bangumi/media/md7452" target="_blank"><img src="images/v1.jpg" width="100%"/>
+                            <br/>我的英雄学院</a>
+                        </div>
+                    </div>
+                    <div class="list_right">
+                        <div class="list_right_video">
+                            <a href="https://www.bilibili.com/bangumi/media/md6425" target="_blank"><img src="images/v2.jpg" width="100%"/>
+                                <br/>此花亭奇谭</a>
+                        </div>
+                    </div>
+                    <div class="list_right">
+                        <div class="list_right_video">
+                            <a href="https://www.bilibili.com/bangumi/media/md8892" target="_blank"><img src="images/v3.jpg" width="100%"/>
+                                <br/>紫罗兰永恒花园</a>
+                        </div>
+                    </div>
+                    <div class="list_right">
+                        <div class="list_right_video">
+                            <a href="https://www.bilibili.com/bangumi/media/md2680" target="_blank"><img src="images/v4.jpg" width="100%"/>
+                                <br/>男子高中生的日常</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="list">
+                    <div class="list_left">
+                        <div class="list_left_word">
+                            <b>视<br/>频<br/>收<br/>藏</b>
+                        </div>
+                    </div>
+                    <div class="list_right">
+                        <div class="list_right_video">
+                            <a href="https://space.bilibili.com/17957924/#/favlist?fid=616883" target="_blank"><img src="images/v5.jpg" width="100%"/>
+                                <br/>漫画家系列</a>
+                        </div>
+                    </div>
+                    <div class="list_right">
+                        <div class="list_right_video">
+                            <a href="https://www.bilibili.com/video/av1688806" target="_blank"><img src="images/v6.jpg" width="100%"/>
+                                <br/>sinbasara游戏杂谈系列</a>
+                        </div>
+                    </div>
+                    <div class="list_right">
+                        <div class="list_right_video">
+                            <a href="https://www.bilibili.com/video/av4384862" target="_blank"><img src="images/v7.jpg" width="100%"/>
+                                <br/>比企谷X一色的恋爱物语</a>
+                        </div>
+                    </div>
+                    <div class="list_right">
+                        <div class="list_right_video">
+                            <a href="https://space.bilibili.com/17957924/#/favlist?fid=1152489" target="_blank"><img src="images/v8.jpg" width="100%"/>
+                                <br/>那些游戏里的人系列</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="list">
+                    <div class="list_left">
+                        <div class="list_left_word">
+                            <b>UP<br/>主<br/>推<br/>荐</b>
+                        </div>
+                    </div>
+
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/433351/#/" target="_blank"><img src="images/up1.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/2059591/#/" target="_blank"><img src="images/up2.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/777536/#/" target="_blank"><img src="images/up3.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/730732/#/" target="_blank"><img src="images/up4.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/137952/#/" target="_blank"><img src="images/up5.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/63231/#/" target="_blank"><img src="images/up6.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/2196632/#/" target="_blank"><img src="images/up7.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/193584/#/" target="_blank"><img src="images/up8.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/928334/#/" target="_blank"><img src="images/up9.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/275981/#/" target="_blank"><img src="images/up10.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/423895/#/" target="_blank"><img src="images/up11.webp" width="100%"/></a>
+                         </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/893053/#/" target="_blank"><img src="images/up12.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/11443550/#/" target="_blank"><img src="images/up13.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/122879/#/" target="_blank"><img src="images/up14.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/546195/#/" target="_blank"><img src="images/up15.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/17409016/#/" target="_blank"><img src="images/up16.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/168598/#/" target="_blank"><img src="images/up17.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/4162287/#/" target="_blank"><img src="images/up18.webp" width="100%"/></a>
+                         </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/322892/#/" target="_blank"><img src="images/up19.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/375375/#/" target="_blank"><img src="images/up20.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/52250/#/" target="_blank"><img src="images/up21.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/4533917/#/" target="_blank"><img src="images/up22.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/281751119/#/" target="_blank"><img src="images/up23.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/389088/#/" target="_blank"><img src="images/up24.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/904827/#/" target="_blank"><img src="images/up25.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/3334179/#/" target="_blank"><img src="images/up26.webp" width="100%"/></a>
+                        </div>
+                        <div class="list_right_up">
+                            <a href="https://space.bilibili.com/131111/#/" target="_blank"><img src="images/up27.webp" width="100%"/></a>
+                        </div>
+                </div>
+
+
+                <p>
+                    <br/>
+                    <h3>&emsp;更多信息点击</h3>
+                    <br/>
+                    &emsp;&emsp;&emsp;我的B站空间:&emsp;<a href="https://space.bilibili.com/17957924/#/"target="_blank"> https://space.bilibili.com/17957924</a>
+
+                    <div class="clear"></div>
+
+                </p>
+
+            </div>
+            <br/>
         </div>
 
-        <a name="a4"></a>
-
+        <!----------------------游戏区部分-------------------------->
         <div class="main">
-            <h2><img src="images/novel.jpg" width="30px"/> 小说区</h2>
-            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+            <div class="main_title"><h3>我的游戏动态</h3></div>       <!--标题-->
+            <div class="main_content">      <!--内容-->
+
+
+
+                <p>
+                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+                    <a id="a4"></a>
+                </p>
+
+            </div>
+            <br/>
         </div>
-        -->
+
+        <!----------------------小说区部分-------------------------->
+        <div class="main">
+            <div class="main_title"><h3>小说</h3></div>       <!--标题-->
+            <div class="main_content">      <!--内容-->
+
+
+
+                <p>
+                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+                </p>
+                <br/>
+        </div>
     </div>
+
 </body>
 </html>
