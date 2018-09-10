@@ -6,7 +6,7 @@ body{
 
     background: #b9cbed;
     font-family: Arial,"微软雅黑";
-
+    font-size: small;
 }
 .back{
     width:94%;
@@ -27,7 +27,7 @@ body{
     padding: 0 5%;
     width: auto;
     text-align: center;
-    font-size: larger;
+    font-size: xx-large;
 }
 
 .lead{
@@ -36,7 +36,7 @@ body{
     border: 2px solid white;
     margin: 3vw 5vw;
     line-height:150%;
-
+    font-size: medium;
 }
 .lead ul{ color: white;margin: 0;padding-left:0;}
 
@@ -67,12 +67,16 @@ body{
     line-height: 150%;
     text-align: center;
 }
+.main p{
+    margin: 3vw;
+}
 .main_title{
     color: white;
     background-color: #b9cbed;
     text-align: center;
-    margin:2% auto;
-    padding: 1vw;
+    margin-top:2vw ;
+    margin-bottom: 3vw;
+    padding: 2%;
 
 
 
@@ -110,52 +114,48 @@ body{
 
 .list{
     width: auto;
-    
-    margin: 10px auto;
-    border: 2px solid #b9cbed;
+    margin: 2vw auto;
+    border: 2px solid #e2edff;
+    text-align: center;
+
 
 }
 
 .list_left{
-    width: 10%;height: 280px;
-    background: #b9cbed;
+    width: 100%;
+    background: #e2edff;
     float: left;
-    display: table;
 
 }
 .list_left_word{
-    display: table-cell;
-    vertical-align: middle;
+
     text-align: center;
     color: white;
 }
 .list_right{
-    height: 260px;
-    width: 18%;
-    display: table;
-    float: left;
-    margin: 0 1.25%;
-    padding: 10px 1%;
+    width: 90%;
+    margin: 0 3vw;
 
-    display: table;
+
 }
 
 .list_right_video{
-    display: table-cell;
-    vertical-align: middle;
+    width: 42%;
     text-align: center;
-    padding-top: 5px;
-    font-size: small;
+    margin: 4%;
+    font-size: smaller;
+    float: left;
+
 }
 .list_right_up{
-    width: 50px;height: 50px;
+    width: 15vw;height: 15vw;
     border-radius: 50%;
-    background: hotpink;
-    margin: 12px;
+    margin: 2.5%;
     float: left;
     overflow:hidden;
-    border: 3px solid #b9cbed;
+    border: 3px solid #e2edff;
 }
+
 .game{
 }
 

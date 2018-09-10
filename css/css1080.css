@@ -117,14 +117,17 @@ body{
     width: 10%;height: 280px;
     background: #b9cbed;
     float: left;
-    display: table;
+
 
 }
 .list_left_word{
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
+    width: 20px;
+    margin:  auto;
+    margin-top: 95px;
     color: white;
+    font-size: 14px;
+
+    text-align: center;
 }
 .list_right{
     height: 260px;
