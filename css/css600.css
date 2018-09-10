@@ -6,7 +6,7 @@ body{
 
     background: #b9cbed;
     font-family: Arial,"微软雅黑";
-    font-size: 20px;
+
 }
 .back{
     width:94%;
@@ -27,7 +27,7 @@ body{
     padding: 0 5%;
     width: auto;
     text-align: center;
-    font-size: 80px;
+    font-size: 200%;
 }
 
 .lead{
@@ -36,7 +36,7 @@ body{
     border: 2px solid white;
     margin: 3% 5%;
     line-height:150%;
-    font-size: 40px;
+    font-size: 150%;
 }
 .lead ul{ color: white;margin: 0;padding-left:0;}
 
