@@ -27,16 +27,16 @@ body{
     padding: 0 5%;
     width: auto;
     text-align: center;
-    font-size: 200%;
+    font-size: larger;
 }
 
 .lead{
-    width:30%;
+    width:20vw;
     padding: 15px 10%;
     border: 2px solid white;
-    margin: 3% 5%;
+    margin: 3vw 5vw;
     line-height:150%;
-    font-size: 150%;
+
 }
 .lead ul{ color: white;margin: 0;padding-left:0;}
 
@@ -54,9 +54,9 @@ body{
 }
 .photo{
     float: right;
-    margin: 2% 5%;
-    width: 30%;
-    border: 5px solid white;
+    margin: 5vw 5vw;
+    width: 30vw;
+
     border-radius: 25px;
 }
 .main{
@@ -72,8 +72,9 @@ body{
     background-color: #b9cbed;
     text-align: center;
     margin:2% auto;
-    padding: 1%;
-    font-size: 150%;
+    padding: 1vw;
+
+
 
 
 }
@@ -84,9 +85,9 @@ body{
 
 }
  .main ul{
-     width: 30%;
-     float: left;
-     margin:2%;margin-left: 5%;
+
+
+     margin:0 5vw;
      text-align: left;
 
  }
@@ -109,7 +110,7 @@ body{
 
 .list{
     width: auto;
-    height: 280px;
+    
     margin: 10px auto;
     border: 2px solid #b9cbed;
 
